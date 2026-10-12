@@ -904,7 +904,7 @@ __metadata:
     postprocessing: "npm:^6.39.5"
     react: "npm:^19.2.8"
     react-dom: "npm:^19.2.8"
-    shoeboxtheatre: "npm:^0.1.0"
+    shoeboxtheatre: "npm:^0.2.0"
     three: "npm:^0.186.1"
     typescript: "npm:~6.0.2"
     vite: "npm:^8.3.0"
@@ -1198,9 +1198,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shoeboxtheatre@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "shoeboxtheatre@npm:0.1.0"
+"shoeboxtheatre@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "shoeboxtheatre@npm:0.2.0"
   dependencies:
     "@fontsource/pixelify-sans": "npm:^5.3.0"
     zustand: "npm:^5.0.15"
@@ -1211,7 +1211,7 @@ __metadata:
     react: ^19.2.8
     react-dom: ^19.2.8
     three: ^0.186.1
-  checksum: 10c0/bb91420c47c88e6edcf207366a7d938164785a2838d2925aa127eff0f31017b5ca3de2d5ac4f3f3992427ae8f4aa81438f015e285ccba632208b92f862eb8056
+  checksum: 10c0/3aa98d0f3ee4c0eb0d122027ca1fe200697e886111e9941a82b30d8f0af1ab7b7a0d98a775931151cda823e2cfd9a9907f18da376f69aa3c2952d83e31793a45
   languageName: node
   linkType: hard
 
